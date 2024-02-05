@@ -1,0 +1,8 @@
+INPUT += /opt/cfs/apps/bsp-arm-SF2-an385
+INPUT += /opt/cfs/psp
+INPUT += /opt/cfs/cfe/modules/msg
+INPUT += /opt/cfs/cfe/modules/sbr
+PREDEFINED += 
+INPUT += /opt/cfs/osal/src/os/freertos
+INPUT += /opt/cfs/psp/fsw/freertos
+INPUT += /opt/cfs/build-SF2/cortex-m3/default_SF2/inc

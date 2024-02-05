@@ -1,0 +1,14 @@
+/* Auto-generated version information file */
+#define MISSION_CONFIG      "@MISSIONCONFIG@"
+#define MISSION_NAME        "@MISSION_NAME@"
+#define SAMPLEMISSION_VERSION "@MISSION_VERSION@"
+#define BSP_ARM_SF2_AN385_VERSION "@bsp-arm-SF2-an385_VERSION@"
+#define CFE_VERSION "@cfe-core_VERSION@"
+#define OSAL_VERSION "@osal_VERSION@"
+#define PSP_VERSION "@psp_VERSION@"
+#define MSG_VERSION "@msg_VERSION@"
+#define SBR_VERSION "@sbr_VERSION@"
+
+#define MISSION_VERSION SAMPLEMISSION_VERSION
+
+ /* end */

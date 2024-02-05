@@ -1,0 +1,2 @@
+arm-none-eabi-ar qc libsbr.a  CMakeFiles/sbr.dir/src/cfe_sbr_map_direct.c.obj CMakeFiles/sbr.dir/src/cfe_sbr_route_unsorted.c.obj
+/toolchain/gcc-arm-none-eabi-9-2019-q4-major/bin/arm-none-eabi-ranlib libsbr.a
