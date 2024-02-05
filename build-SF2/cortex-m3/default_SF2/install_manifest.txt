@@ -1,2 +1,0 @@
-/exe/SF2/cf/cfe_es_startup.scr
-/exe/SF2/core-SF2

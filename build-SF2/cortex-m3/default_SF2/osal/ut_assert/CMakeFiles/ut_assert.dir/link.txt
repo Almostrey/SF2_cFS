@@ -1,2 +1,0 @@
-arm-none-eabi-ar qc libut_assert.a  CMakeFiles/ut_assert.dir/src/utassert.c.obj CMakeFiles/ut_assert.dir/src/utbsp.c.obj CMakeFiles/ut_assert.dir/src/utlist.c.obj CMakeFiles/ut_assert.dir/src/utstubs.c.obj CMakeFiles/ut_assert.dir/src/uttest.c.obj CMakeFiles/ut_assert.dir/src/uttools.c.obj
-/toolchain/gcc-arm-none-eabi-9-2019-q4-major/bin/arm-none-eabi-ranlib libut_assert.a

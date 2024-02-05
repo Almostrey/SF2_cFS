@@ -1,2 +1,3 @@
-build-SF2
+toolchain/
+build-SF2/
 .DS_Store
